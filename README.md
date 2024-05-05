@@ -8,10 +8,8 @@
 
 # Steps to run the Restaurant Application:
 STEP-1: Download both the Frontend and Backend folders into the local system.<br>
-STEP-2: First Navigate to the Backend Folder and create a 'config' folder and inside the folder create a 'config.env' file with the following details.
-        PORT = 4000
-        FRONTEND_URL = http://localhost:5173
-        MONGO_URI = mongodb+srv://rahultejwani:Q00Nov1aSpZlvHQQ@cluster0.qutgc4i.mongodb.net/?retryWrites=true
-in VSCode and inside the terminal run the command 'npm i' to install the node modules.
-STEP
-
+STEP-2: Firstly open the 'Backend' Folder into the VSCode and inside the terminal run the command 'npm i' to install the backend node modules.<br>
+STEP-3: In the terminal, run another command 'npm run dev' to run the backend server and connect the project to the database.<br>
+STEP-4: Navigate to the 'Frontend' Folder in VSCode and run the command 'npm i' to install the frontend node modules.<br>
+STEP-5: Inside the 'Frontend' folder terminal, run the command 'npm run dev' to run the React App.<br>
+STEP-6: Open the link 'http://localhost:5173/' in any of the available browsers to view the Restaurant Reservation Application and fill the form present towards the end of the application to reserve a seat.<br>
