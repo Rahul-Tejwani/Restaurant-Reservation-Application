@@ -1,5 +1,5 @@
 # MERN-Stack-Restaurant-Application
--> This is a Full Stack Restaurant Reservation Application created using React, Node, MongoDB, and Express.<br>The Application displays and markets details of the Restaurant like 'Services', 'Popular Dishes', 'Expertise', and the 'Team'.<br>
+-> This is a Full Stack Restaurant Reservation Application created using React, Node, MongoDB, and Express. The Application displays and markets details of the Restaurant like 'Services', 'Popular Dishes', 'Expertise', and the 'Team'.<br>
 -> The application also contains a 'Reservation Form', using which user can reserve a seat in a Restaurant.<br>
 -> The reservation form contains many checks for the data entered by the user in the form like the First and Last should be less than 3 characters, the email ID should be valid and the phone No must contain 10 digits.<br>
 -> In case any of the data checks fail, the application will show a PopUp using React Toast to fix the data.<br>
