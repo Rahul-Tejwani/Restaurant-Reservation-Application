@@ -6,19 +6,20 @@ import { errorMiddleware } from "./error/error.js";
 import reservationRouter from "./routes/reservationRoute.js";
 
 const app = express();
-dotenv.config(); 
+dotenv.config();
 
 app.use(
-    cors({                  //For connecting backend with Frontend
+  cors({
+    //For connecting backend with Frontend
     origin: [process.env.FRONTEND_URL],
     method: ["POST"],
     credentials: true,
-    })
+  })
 );
 
 app.use(express.json());
-app.use(express.urlencoded({extended: true}));
-app.use('/api/v1/reservation', reservationRouter);
+app.use(express.urlencoded({ extended: true }));
+app.use("/api/v1/reservation", reservationRouter);
 
 dbConnection();
 
