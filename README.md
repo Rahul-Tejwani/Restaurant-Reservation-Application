@@ -1,6 +1,6 @@
 # Restaurant Reservation Application
 
-### Project Overview
+## Project Overview
 The Restaurant Reservation Application is a full-stack web application built using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**. It is designed to enhance the restaurant's online presence by showcasing its services, popular dishes, culinary expertise, and team profiles. The application also features a user-friendly reservation form to book a seat in the restaurant with robust validation checks, with robust validation checks, ensuring accurate data submission and a seamless user experience.
 
 ---
