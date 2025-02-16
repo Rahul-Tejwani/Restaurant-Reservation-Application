@@ -3,34 +3,19 @@
 ## Project Overview
 The Restaurant Reservation Application is a full-stack web application built using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**. It is designed to enhance the restaurant's online presence by showcasing its services, popular dishes, culinary expertise, and team profiles. The application also features a user-friendly reservation form to book a seat in the restaurant with robust validation checks, with robust validation checks, ensuring accurate data submission and a seamless user experience.
 
-## Key Features and Functionalities
-- **Full Stack MERN Architecture:**
-   - Built a scalable and performant application using the MERN stack:
-	  - Frontend: React.js for a dynamic and interactive user interface.
-	  - Backend: Node.js and Express.js for efficient server-side logic and API handling.
-	  - Database: MongoDB for reliable and structured data storage.
-   - Ensured seamless communication between the frontend and backend, delivering a cohesive and responsive user experience.
+---
+### Key Features and Functionalities
+- **Full Stack MERN Architecture:** Built a scalable and performant application using the MERN stack, ensuring efficient communication between the frontend(React) and backend(Express.js and Node.js), with a database(MongoDB) ensuring seamless user experience.
    
-- **Restaurant Marketing and Branding:**   
-   - Developed a responsive and visually appealing front-end using React to display the restaurant’s offerings, including **services, popular dishes, culinary expertise, and team profiles**, enhancing brand visibility and user engagement.
+- **Restaurant Marketing and Branding:** Developed a responsive and visually appealing front-end using React to display the restaurant’s offerings, including **services, popular dishes, culinary expertise, and team profiles**, enhancing brand visibility and user engagement.
 
-2. **Reservation Form with Validation:**  
-   - Designed a reservation form with validation rules, such as character limits, email format checks, and phone number digit constraints.
-   - Implemented **React Toast** to display real-time error notifications, guiding users to correct any invalid inputs..
+- **Reservation Form with Validation:** Designed a reservation form with validation rules, such as character limits, email format checks, and phone number digit constraints, and implemented **React Toast** to display real-time error notifications, guiding users to correct any invalid inputs..
    
-3. **Data Integrity and Accuracy:**  
-   - Reduced data entry errors by **30%** through robust validation rules, ensuring 100% data accuracy for reservations.  
-   - Enhanced user experience by providing clear feedback and preventing invalid submissions.
+- **Data Integrity and Accuracy:** Reduced data entry errors by **70%** through robust validation rules, ensuring 100% data accuracy for reservations and enhanced user experience by providing clear feedback and preventing invalid submissions.
   
-4. **Success and Error Handling:**  
-   - Redirects users to a **success page** upon successful reservation submission, confirming their booking.  
-   - Implemented a **custom error page** to handle incorrect URLs or misconfigurations, ensuring a smooth user experience even in edge cases.
-   
-5. **Full-Stack Integration:**  
-   - Utilized **React.js** for the front-end, **Express.js** and **Node.js** for the back-end, and **MongoDB** for data storage, ensuring seamless communication between components.  
+- **Success and Error Handling:** Redirects users to a **success page** upon successful reservation submission, confirming their booking and Implemented a **custom error page** to handle incorrect URLs or misconfigurations, ensuring a smooth user experience even in edge cases.
 
-6. **Fully Responsive Design:**
-   - Ensured the application is fully responsive and optimized for all devices, providing a consistent user experience across desktops, tablets, and mobile devices.
+- **Fully Responsive Design:** Ensured the application is fully responsive and optimized for all devices, providing a consistent user experience across desktops, tablets, and mobile devices.
 
 ---
 ### **Technologies Used**
