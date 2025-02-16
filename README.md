@@ -22,8 +22,7 @@ The Restaurant Reservation Application is a full-stack web application built usi
 - **Frontend**: HTML, CSS, JavaScript, React.js  
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB  
-- **Validation and Notifications**: React Toast  
-- **Deployment**: (Optional: Mention if deployed on platforms like Netlify, Vercel, or Heroku)  
+- **Validation and Notifications**: React Toast   
 
 --- 
 ### **How It Works**
