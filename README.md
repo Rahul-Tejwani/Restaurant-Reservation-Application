@@ -9,7 +9,7 @@ The Restaurant Reservation Application is a full-stack web application built usi
    
 - **Restaurant Marketing and Branding:** Developed a responsive and visually appealing front-end using React to display the restaurant’s offerings, including **services, popular dishes, culinary expertise, and team profiles**, enhancing brand visibility and user engagement.
 
-- **Reservation Form with Validation:** Designed a reservation form with validation rules, such as character limits, email format checks, and phone number digit constraints, and implemented **React Toast** to display real-time error notifications, guiding users to correct any invalid inputs..
+- **Reservation Form with Validation:** Designed a reservation form with validation rules, such as character limits, email format checks, and phone number digit constraints, and implemented **React Toast** to display real-time error notifications, guiding users to correct any invalid inputs.
    
 - **Data Integrity and Accuracy:** Reduced data entry errors by **70%** through robust validation rules, ensuring 100% data accuracy for reservations and enhanced user experience by providing clear feedback and preventing invalid submissions.
   
